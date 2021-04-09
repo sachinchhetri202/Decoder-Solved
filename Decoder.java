@@ -1,3 +1,9 @@
+/** 
+    * Decoder using Ceasar Cipher  
+    * @author Sachin Chhetri <sachinchhetri202@gmail.com>
+    * File Input/Output, Methods, Array, Loops, try/catch and if/else if clause.  
+    */
+
 import java.util.*;
 import java.io.*;
 
